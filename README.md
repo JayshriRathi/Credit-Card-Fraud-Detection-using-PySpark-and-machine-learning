@@ -102,6 +102,9 @@ This risk-based output improves interpretability and real-world usability.
 
 
 ## 🖥️ Streamlit Application (UI / UX)
+<img width="1316" height="642" alt="Screenshot 2026-01-09 143848" src="https://github.com/user-attachments/assets/0f67c7b2-daae-49ef-bc3d-0532e1703ab6" />
+<img width="1278" height="708" alt="Screenshot 2026-01-09 145217" src="https://github.com/user-attachments/assets/e844dc0c-a68b-42e8-b0fe-c246149232ee" />
+<img width="1236" height="673" alt="Screenshot 2026-01-09 142506" src="https://github.com/user-attachments/assets/74d4291f-e721-4ee2-8140-88c2804732ac" />
 
 
 ### Features
