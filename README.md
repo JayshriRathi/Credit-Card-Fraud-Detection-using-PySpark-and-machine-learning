@@ -1,4 +1,4 @@
-💳 Credit Card Fraud Detection using PySpark & Machine Learning
+# 💳 Credit Card Fraud Detection using PySpark & Machine Learning
 
 ## 📌 Project Overview
 Credit card fraud detection is a critical real-world problem due to the highly imbalanced nature of transaction data and the significant financial losses caused by fraudulent activities.
